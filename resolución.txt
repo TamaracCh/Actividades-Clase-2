@@ -1,0 +1,5 @@
+3- EL archivo que agregé localmente no está en el repositorio  remoto porque recién estamos confirmando cambios atravez del commit, ese archivo queda preparado para que podamos tocar push y ahí si por fin subirse al repositorio remoto.
+
+5_ el cambio realizado en la interfaz web no está localmente porque desde github Desktop tenemos que recargar cambios del repositorio remoto tocando Fetch para que se actualicen las modificaciones, y luego poder hacer pull para que se guarden dichos cambios finalmente en el espacio local.
+
+8_ Cuando intentamos hacer un push de los cambios aparece un conflicto ya que se está modificando el mismo archivo desde el repositorio remoto y desde el repositorio local al mismo tiempo. Para avanzar lo que se debe hacer es resolver el conflicto descartando líneas que no precisemos conjunto a la otra persona que realizó los cambios a la par nuestra.
